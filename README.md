@@ -23,5 +23,6 @@ Run the script through a scheduled cronjob at regular intervals using crontab (R
 Usage to retrieve symbols (bash):
 
 $redis-cli get AMZN
+
 "Amazon.com, Inc."
 
