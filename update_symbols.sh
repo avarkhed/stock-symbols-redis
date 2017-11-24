@@ -1,3 +1,6 @@
+#Author: Aditya Varkhedi
+#License: Apache-2.0
+
 curl -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" -o "nasdaq.csv" -J -L --silent "http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download"
 curl -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" -o "nyse.csv" -J -L --silent "http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NYSE&render=download"
 
