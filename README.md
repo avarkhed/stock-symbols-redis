@@ -9,13 +9,13 @@ Bash shell.
 
 Usage to populate Redis:
 
-> sh update_symbols.sh
+> $ sh update_symbols.sh
 
 Run the script through a scheduled cronjob at regular intervals using crontab (Recommended once a day).
 
 Usage to retrieve symbols (bash):
 
-> $redis-cli get AMZN
+> $ redis-cli get AMZN
 
 > "Amazon.com, Inc."
 
