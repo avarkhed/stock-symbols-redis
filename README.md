@@ -11,9 +11,6 @@ Usage to populate Redis:
 
 > sh update_symbols.sh
 
-
-Additional:
-
 Run the script through a scheduled cronjob at regular intervals using crontab (Recommended once a day).
 
 Usage to retrieve symbols (bash):
