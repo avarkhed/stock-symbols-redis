@@ -7,7 +7,7 @@ Requirements:
 Redis (running on port 6379). 
 Bash shell. 
 
-Usage to populate Redis:
+Usage to populate Redis (bash):
 
 > $ sh update_symbols.sh
 
