@@ -1,6 +1,6 @@
 # stock-symbols-redis
 
-A solution to populate a Redis in memory database with key value pairs of Stock SYMBOL keys and Stock NAME values. This is useful for autocomplete solutions and other tools. NASDAQ & NYSE stocks.
+A solution to populate a Redis in memory database with key value pairs of Stock SYMBOL keys and Stock NAME values. This is useful for autocomplete solutions and other tools. Always up to date, NASDAQ & NYSE stocks.
 
 Requirements: 
 
